@@ -1,0 +1,12 @@
+C:\Users\tunah\OneDrive\Masaüstü\Enoca\Proje\Project\OrderSystemChallange\Core\OrderSystemChallange.EnvironmentConfiguration\bin\Debug\net6.0\OrderSystemChallange.EnvironmentConfiguration.deps.json
+C:\Users\tunah\OneDrive\Masaüstü\Enoca\Proje\Project\OrderSystemChallange\Core\OrderSystemChallange.EnvironmentConfiguration\bin\Debug\net6.0\OrderSystemChallange.EnvironmentConfiguration.dll
+C:\Users\tunah\OneDrive\Masaüstü\Enoca\Proje\Project\OrderSystemChallange\Core\OrderSystemChallange.EnvironmentConfiguration\bin\Debug\net6.0\OrderSystemChallange.EnvironmentConfiguration.pdb
+C:\Users\tunah\OneDrive\Masaüstü\Enoca\Proje\Project\OrderSystemChallange\Core\OrderSystemChallange.EnvironmentConfiguration\obj\Debug\net6.0\OrderSystemChallange.EnvironmentConfiguration.csproj.AssemblyReference.cache
+C:\Users\tunah\OneDrive\Masaüstü\Enoca\Proje\Project\OrderSystemChallange\Core\OrderSystemChallange.EnvironmentConfiguration\obj\Debug\net6.0\OrderSystemChallange.EnvironmentConfiguration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tunah\OneDrive\Masaüstü\Enoca\Proje\Project\OrderSystemChallange\Core\OrderSystemChallange.EnvironmentConfiguration\obj\Debug\net6.0\OrderSystemChallange.EnvironmentConfiguration.AssemblyInfoInputs.cache
+C:\Users\tunah\OneDrive\Masaüstü\Enoca\Proje\Project\OrderSystemChallange\Core\OrderSystemChallange.EnvironmentConfiguration\obj\Debug\net6.0\OrderSystemChallange.EnvironmentConfiguration.AssemblyInfo.cs
+C:\Users\tunah\OneDrive\Masaüstü\Enoca\Proje\Project\OrderSystemChallange\Core\OrderSystemChallange.EnvironmentConfiguration\obj\Debug\net6.0\OrderSystemChallange.EnvironmentConfiguration.csproj.CoreCompileInputs.cache
+C:\Users\tunah\OneDrive\Masaüstü\Enoca\Proje\Project\OrderSystemChallange\Core\OrderSystemChallange.EnvironmentConfiguration\obj\Debug\net6.0\OrderSystemChallange.EnvironmentConfiguration.dll
+C:\Users\tunah\OneDrive\Masaüstü\Enoca\Proje\Project\OrderSystemChallange\Core\OrderSystemChallange.EnvironmentConfiguration\obj\Debug\net6.0\refint\OrderSystemChallange.EnvironmentConfiguration.dll
+C:\Users\tunah\OneDrive\Masaüstü\Enoca\Proje\Project\OrderSystemChallange\Core\OrderSystemChallange.EnvironmentConfiguration\obj\Debug\net6.0\OrderSystemChallange.EnvironmentConfiguration.pdb
+C:\Users\tunah\OneDrive\Masaüstü\Enoca\Proje\Project\OrderSystemChallange\Core\OrderSystemChallange.EnvironmentConfiguration\obj\Debug\net6.0\ref\OrderSystemChallange.EnvironmentConfiguration.dll

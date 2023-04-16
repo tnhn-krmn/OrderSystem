@@ -1,0 +1,12 @@
+C:\Users\tunah\OneDrive\Masaüstü\Enoca\Proje\Project\OrderSystemChallange\Core\OrderSystemChallange.Domain\bin\Debug\net6.0\OrderSystemChallange.Domain.deps.json
+C:\Users\tunah\OneDrive\Masaüstü\Enoca\Proje\Project\OrderSystemChallange\Core\OrderSystemChallange.Domain\bin\Debug\net6.0\OrderSystemChallange.Domain.dll
+C:\Users\tunah\OneDrive\Masaüstü\Enoca\Proje\Project\OrderSystemChallange\Core\OrderSystemChallange.Domain\bin\Debug\net6.0\OrderSystemChallange.Domain.pdb
+C:\Users\tunah\OneDrive\Masaüstü\Enoca\Proje\Project\OrderSystemChallange\Core\OrderSystemChallange.Domain\obj\Debug\net6.0\OrderSystemChallange.Domain.csproj.AssemblyReference.cache
+C:\Users\tunah\OneDrive\Masaüstü\Enoca\Proje\Project\OrderSystemChallange\Core\OrderSystemChallange.Domain\obj\Debug\net6.0\OrderSystemChallange.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tunah\OneDrive\Masaüstü\Enoca\Proje\Project\OrderSystemChallange\Core\OrderSystemChallange.Domain\obj\Debug\net6.0\OrderSystemChallange.Domain.AssemblyInfoInputs.cache
+C:\Users\tunah\OneDrive\Masaüstü\Enoca\Proje\Project\OrderSystemChallange\Core\OrderSystemChallange.Domain\obj\Debug\net6.0\OrderSystemChallange.Domain.AssemblyInfo.cs
+C:\Users\tunah\OneDrive\Masaüstü\Enoca\Proje\Project\OrderSystemChallange\Core\OrderSystemChallange.Domain\obj\Debug\net6.0\OrderSystemChallange.Domain.csproj.CoreCompileInputs.cache
+C:\Users\tunah\OneDrive\Masaüstü\Enoca\Proje\Project\OrderSystemChallange\Core\OrderSystemChallange.Domain\obj\Debug\net6.0\OrderSystemChallange.Domain.dll
+C:\Users\tunah\OneDrive\Masaüstü\Enoca\Proje\Project\OrderSystemChallange\Core\OrderSystemChallange.Domain\obj\Debug\net6.0\refint\OrderSystemChallange.Domain.dll
+C:\Users\tunah\OneDrive\Masaüstü\Enoca\Proje\Project\OrderSystemChallange\Core\OrderSystemChallange.Domain\obj\Debug\net6.0\OrderSystemChallange.Domain.pdb
+C:\Users\tunah\OneDrive\Masaüstü\Enoca\Proje\Project\OrderSystemChallange\Core\OrderSystemChallange.Domain\obj\Debug\net6.0\ref\OrderSystemChallange.Domain.dll

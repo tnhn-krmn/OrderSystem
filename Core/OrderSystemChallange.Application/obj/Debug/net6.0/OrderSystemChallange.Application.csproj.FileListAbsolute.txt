@@ -1,0 +1,15 @@
+C:\Users\tunah\OneDrive\Masaüstü\Enoca\Proje\Project\OrderSystemChallange\Core\OrderSystemChallange.Application\obj\Debug\net6.0\OrderSystemChallange.Application.csproj.AssemblyReference.cache
+C:\Users\tunah\OneDrive\Masaüstü\Enoca\Proje\Project\OrderSystemChallange\Core\OrderSystemChallange.Application\obj\Debug\net6.0\OrderSystemChallange.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tunah\OneDrive\Masaüstü\Enoca\Proje\Project\OrderSystemChallange\Core\OrderSystemChallange.Application\obj\Debug\net6.0\OrderSystemChallange.Application.AssemblyInfoInputs.cache
+C:\Users\tunah\OneDrive\Masaüstü\Enoca\Proje\Project\OrderSystemChallange\Core\OrderSystemChallange.Application\obj\Debug\net6.0\OrderSystemChallange.Application.AssemblyInfo.cs
+C:\Users\tunah\OneDrive\Masaüstü\Enoca\Proje\Project\OrderSystemChallange\Core\OrderSystemChallange.Application\obj\Debug\net6.0\OrderSystemChallange.Application.csproj.CoreCompileInputs.cache
+C:\Users\tunah\OneDrive\Masaüstü\Enoca\Proje\Project\OrderSystemChallange\Core\OrderSystemChallange.Application\bin\Debug\net6.0\OrderSystemChallange.Application.deps.json
+C:\Users\tunah\OneDrive\Masaüstü\Enoca\Proje\Project\OrderSystemChallange\Core\OrderSystemChallange.Application\bin\Debug\net6.0\OrderSystemChallange.Application.dll
+C:\Users\tunah\OneDrive\Masaüstü\Enoca\Proje\Project\OrderSystemChallange\Core\OrderSystemChallange.Application\bin\Debug\net6.0\OrderSystemChallange.Application.pdb
+C:\Users\tunah\OneDrive\Masaüstü\Enoca\Proje\Project\OrderSystemChallange\Core\OrderSystemChallange.Application\bin\Debug\net6.0\OrderSystemChallange.Domain.dll
+C:\Users\tunah\OneDrive\Masaüstü\Enoca\Proje\Project\OrderSystemChallange\Core\OrderSystemChallange.Application\bin\Debug\net6.0\OrderSystemChallange.Domain.pdb
+C:\Users\tunah\OneDrive\Masaüstü\Enoca\Proje\Project\OrderSystemChallange\Core\OrderSystemChallange.Application\obj\Debug\net6.0\OrderSystemChallange.Application.csproj.CopyComplete
+C:\Users\tunah\OneDrive\Masaüstü\Enoca\Proje\Project\OrderSystemChallange\Core\OrderSystemChallange.Application\obj\Debug\net6.0\OrderSystemChallange.Application.dll
+C:\Users\tunah\OneDrive\Masaüstü\Enoca\Proje\Project\OrderSystemChallange\Core\OrderSystemChallange.Application\obj\Debug\net6.0\refint\OrderSystemChallange.Application.dll
+C:\Users\tunah\OneDrive\Masaüstü\Enoca\Proje\Project\OrderSystemChallange\Core\OrderSystemChallange.Application\obj\Debug\net6.0\OrderSystemChallange.Application.pdb
+C:\Users\tunah\OneDrive\Masaüstü\Enoca\Proje\Project\OrderSystemChallange\Core\OrderSystemChallange.Application\obj\Debug\net6.0\ref\OrderSystemChallange.Application.dll
