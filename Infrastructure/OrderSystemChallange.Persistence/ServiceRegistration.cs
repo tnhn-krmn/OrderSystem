@@ -3,10 +3,12 @@ using Microsoft.Extensions.DependencyInjection;
 using OrderSystemChallange.Application.Abstractions.Services;
 using OrderSystemChallange.Application.Repositories.Carrier;
 using OrderSystemChallange.Application.Repositories.CarrierConfiguration;
+using OrderSystemChallange.Application.Repositories.CarrierReport;
 using OrderSystemChallange.Application.Repositories.Order;
 using OrderSystemChallange.Persistence.Context;
 using OrderSystemChallange.Persistence.Repositories.Carrier;
 using OrderSystemChallange.Persistence.Repositories.CarrierConfiguration;
+using OrderSystemChallange.Persistence.Repositories.CarrierReport;
 using OrderSystemChallange.Persistence.Repositories.Order;
 using OrderSystemChallange.Persistence.Services;
 using System;
@@ -36,6 +38,8 @@ namespace OrderSystemChallange.Persistence
 
             services.AddScoped<IOrderReadRepository, OrderReadRepository>();
             services.AddScoped<IOrderWriteRepository, OrderWriteRepository>();
+            services.AddScoped<ICarrierReportService, CarrierReportService>();
+            services.AddScoped<ICarrierReportWriteRepository, CarrierReportWriteRepository>();
         }
     }
 }

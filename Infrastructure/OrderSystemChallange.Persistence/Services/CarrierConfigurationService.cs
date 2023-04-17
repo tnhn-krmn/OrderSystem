@@ -32,7 +32,7 @@ namespace OrderSystemChallange.Persistence.Services
             CarrierConfiguration carrier = _mapper.Map<CarrierConfiguration>(model);
             await _carrierConfigurationWriteRepository.AddAsync(carrier);
             var result = await _carrierConfigurationWriteRepository.SaveAsync();
-            if (result <= 0)
+            if (result < 0)
             {
                 return new ErrorResult(Message.CarrierConfigurationCreatedIsError);
             }

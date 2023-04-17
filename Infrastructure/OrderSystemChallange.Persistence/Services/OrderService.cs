@@ -3,6 +3,7 @@ using Microsoft.EntityFrameworkCore;
 using OrderSystemChallange.Application.Abstractions.Services;
 using OrderSystemChallange.Application.Conststans;
 using OrderSystemChallange.Application.Dto.CarrierConfiguration;
+using OrderSystemChallange.Application.Dto.CarrierReport;
 using OrderSystemChallange.Application.Dto.Order;
 using OrderSystemChallange.Application.Repositories.CarrierConfiguration;
 using OrderSystemChallange.Application.Repositories.Order;
@@ -127,6 +128,15 @@ namespace OrderSystemChallange.Persistence.Services
             _orderWriteRepository.SaveAsync();
 
             return new SuccessResult(Message.CarrierConfigurationIsUpdatedSuccess);
+        }
+
+        public async Task<List<AddCarrierReportDto>> GetGroupByAndDateCarrier()
+        {
+            var carrierReport = (from report in _orderReadRepository.Table
+                                group report by new { report.CarrieId, report.OrderDate } into g
+                                select new AddCarrierReportDto{ Cost = g.Sum(x => x.CarrierCost), CarrierId = g.Key.CarrieId, ReportDate = g.Key.OrderDate}).ToList();
+
+            return carrierReport;
         }
     }
 }

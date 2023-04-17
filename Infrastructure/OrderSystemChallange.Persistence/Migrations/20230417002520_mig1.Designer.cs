@@ -12,7 +12,7 @@ using OrderSystemChallange.Persistence.Context;
 namespace OrderSystemChallange.Persistence.Migrations
 {
     [DbContext(typeof(OrderSystemContext))]
-    [Migration("20230416150207_mig1")]
+    [Migration("20230417002520_mig1")]
     partial class mig1
     {
         /// <inheritdoc />
@@ -73,6 +73,28 @@ namespace OrderSystemChallange.Persistence.Migrations
                     b.HasIndex("CarrierId");
 
                     b.ToTable("CarrierConfigurations");
+                });
+
+            modelBuilder.Entity("OrderSystemChallange.Domain.Entities.CarrierReport", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<int>("CarrierId")
+                        .HasColumnType("int");
+
+                    b.Property<decimal>("Cost")
+                        .HasColumnType("decimal(18,2)");
+
+                    b.Property<DateTime>("ReportDate")
+                        .HasColumnType("datetime2");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("CarrierReports");
                 });
 
             modelBuilder.Entity("OrderSystemChallange.Domain.Entities.Order", b =>

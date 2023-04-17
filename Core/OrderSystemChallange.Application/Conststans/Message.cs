@@ -38,5 +38,9 @@ namespace OrderSystemChallange.Application.Conststans
         public static string AddedOrderIsSuccess = "Sipariş başarılı bir şekilde oluşturuldu";
 
         public static string CarrierConfigurationIsNotFound = "Kargo konfigürasyonu bulunamadı";
+
+        public static string CarrierReportCreatedIsError = "Kargo raporu eklenemedi";
+
+        public static string CarrierReportCreatedCreatedSuccess = "Kargo raporu eklendi";
     }
 }

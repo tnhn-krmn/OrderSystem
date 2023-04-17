@@ -1,4 +1,5 @@
-﻿using OrderSystemChallange.Application.Dto.Order;
+﻿using OrderSystemChallange.Application.Dto.CarrierReport;
+using OrderSystemChallange.Application.Dto.Order;
 using OrderSystemChallange.Application.Utilities.Result.Common;
 using System;
 using System.Collections.Generic;
@@ -14,5 +15,6 @@ namespace OrderSystemChallange.Application.Abstractions.Services
         Task<GetOrderListResponse> GetAllAsync();
         Task<IResult> DeleteById(DeleteOrderDto deleteUser);
         Task<IResult> UpdateAsync(UpdateOrderDto user);
+        Task<List<AddCarrierReportDto>> GetGroupByAndDateCarrier();
     }
 }

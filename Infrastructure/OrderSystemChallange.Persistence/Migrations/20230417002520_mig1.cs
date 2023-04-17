@@ -12,6 +12,21 @@ namespace OrderSystemChallange.Persistence.Migrations
         protected override void Up(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.CreateTable(
+                name: "CarrierReports",
+                columns: table => new
+                {
+                    Id = table.Column<int>(type: "int", nullable: false)
+                        .Annotation("SqlServer:Identity", "1, 1"),
+                    CarrierId = table.Column<int>(type: "int", nullable: false),
+                    Cost = table.Column<decimal>(type: "decimal(18,2)", nullable: false),
+                    ReportDate = table.Column<DateTime>(type: "datetime2", nullable: false)
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_CarrierReports", x => x.Id);
+                });
+
+            migrationBuilder.CreateTable(
                 name: "Carriers",
                 columns: table => new
                 {
@@ -86,6 +101,9 @@ namespace OrderSystemChallange.Persistence.Migrations
         {
             migrationBuilder.DropTable(
                 name: "CarrierConfigurations");
+
+            migrationBuilder.DropTable(
+                name: "CarrierReports");
 
             migrationBuilder.DropTable(
                 name: "Orders");
